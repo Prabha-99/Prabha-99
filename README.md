@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabhashana Wijesinghe</h1>
 <h3 align="center">BICT(Hons),Undergraduate at University of Ruhuna, Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Angular and SpringBoot**<a href="https://prabha-99.github.io/" class="text-decoration-none" target="_blank"> Portfolio <a>
+- 🌱 I’m currently learning **Angular and SpringBoot**
 
 - 📫 How to reach me <a href="https://prabha-99.github.io/" class="text-decoration-none" target="_blank"> Portfolio <a>,**prabhashana77@gmail.com**
 
