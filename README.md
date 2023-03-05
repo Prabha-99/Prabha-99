@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I hate Coding...**
 
-<h3 align="left">Connect with me:<a href="https://prabha-99.github.io/" class="text-decoration-none" target="_blank"> Portfolio <a></h3>
+<h3 align="left">Connect with me:
 <p align="left">
 </p>
 
