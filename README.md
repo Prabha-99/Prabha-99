@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular and SpringBoot**
 
-- 📫 How to reach me <a href="https://prabha-99.github.io/" class="text-decoration-none" target="_blank"> Portfolio <a>,**prabhashana77@gmail.com**
+- 📫 How to reach me <a href="https://prabha-99.github.io/" target="_blank"> Portfolio <a>,**prabhashana77@gmail.com**
 
 
 - ⚡ Fun fact **I hate Coding...**
