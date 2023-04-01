@@ -6,8 +6,6 @@
 - 📫 How to reach me <a href="https://prabha-99.github.io/" target="_blank"> Portfolio <a>,**prabhashana77@gmail.com**
 
 
-- ⚡ Fun fact **I hate Coding...**
-
 <h3 align="left">Connect with me:
 <p align="left">
 </p>
