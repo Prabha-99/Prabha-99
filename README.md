@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prabhashana Wijesinghe</h1>
 <h3 align="center">BICT(Hons),Undergraduate at University of Ruhuna, Sri Lanka</h3>
 
+
+![Prabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabha-99&show_icons=true&theme=transparent)
+
 - 🌱 I’m currently learning **Angular and SpringBoot**
 
 - 📫 How to reach me <a href="https://prabha-99.github.io/" target="_blank"> Portfolio <a>,**prabhashana77@gmail.com**
