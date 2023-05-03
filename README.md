@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabhashana Wijesinghe</h1>
+![Banner!](Banner.PNG)
 <h3 align="center">BICT(Hons),Undergraduate at University of Ruhuna, Sri Lanka</h3>
 
   I am a Java Backend Developer from Sri Lanka who currently working with Spring Boot framework. I am passionate about Music and Astronomy and i think those two things makes me traqualized person during this software development journey.  
