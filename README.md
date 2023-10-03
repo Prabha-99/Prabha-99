@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.linkedin.com/in/prabhashana-wijesinghe-75090219b/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/prabha_work?up_rollout=true)  
 
 
 <h3 align="left">Languages and Tools:</h3>
