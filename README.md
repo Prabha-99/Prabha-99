@@ -17,7 +17,8 @@
 <p align="left">
 </p>
 
-[<img src='https://icons8.com/icon/ngc6JsBomclm/fiverr'>](https://www.fiverr.com/prabha_work?public_mode=true)  
+<a href="https://www.fiverr.com/prabha_work?public_mode=true" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="fiverr" width="40" height="40"/> </a>
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
