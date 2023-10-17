@@ -11,7 +11,7 @@
 <p align="left">
 </p>
 
-[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prabhashana-wijesinghe-75090219b/)  [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg' alt='facebook' height='40'>](https://www.facebook.com/prabhashana.prabhashana)  
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prabhashana-wijesinghe-75090219b/)  [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='40'>](https://www.facebook.com/prabhashana.prabhashana)  
 
 <h3 align="left">Hire me:
 <p align="left">
