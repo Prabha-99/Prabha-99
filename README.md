@@ -4,30 +4,16 @@
   I am a Java Spring Backend Developer from Sri Lanka who currently working with Spring Boot framework.Other than programming I am passionate in Music and Astronomy and i think those two things makes me traqualized person during this software development journey. 
 
  
-
-<div class="card-group">
-  <div class="card">
-    <img src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image" class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Postman API Fundamentals</h5>
-      <p class="card-text">Student Expert</p>
-    </div>
-    <div class="card-footer">
-      <small class="text-muted"><a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com">View Badge</a></small>
-    </div>
+<div style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif; display: flex; flex-direction: row;">
+  <div style="margin-right: 20px;">
+    <a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image"></a>
+    <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals<br> Student Expert</p>
   </div>
-  <div class="card">
-    <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">AWS Educate Introduction to Cloud 101</h5>
-      <p class="card-text">Student Expert</p>
-    </div>
-    <div class="card-footer">
-      <small class="text-muted"><a href="https://api.badgr.io/public/assertions/UD4a8xQySj2Y7j3r53ereg?identity__email=prabhashana77%40gmail.com">View Badge</a></small>
-    </div>
+  <div>
+    <a href="https://api.badgr.io/public/assertions/UD4a8xQySj2Y7j3r53ereg?identity__email=prabhashana77%40gmail.com"><img width="120px" height="120px" src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png"></a>
+    <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">AWS Educate Introduction to Cloud 101</p>
   </div>
 </div>
-
 
 
 
