@@ -3,19 +3,17 @@
 
   I am a Java Spring Backend Developer from Sri Lanka who currently working with Spring Boot framework.Other than programming I am passionate in Music and Astronomy and i think those two things makes me traqualized person during this software development journey. 
 
-<div class="badgr-badges" style="display: flex; flex-direction: row;">
-  
+<div style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif; display: flex; flex-direction: row;">
   <div style="margin-right: 20px;">
     <a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image"></a>
-    <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals<br> Student Expert</p>
+    <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals<br> Student Expert</p>
   </div>
-
-  <div style="margin-right: 20px;">
+  <div>
     <a href="https://api.badgr.io/public/assertions/UD4a8xQySj2Y7j3r53ereg?identity__email=prabhashana77%40gmail.com"><img width="120px" height="120px" src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png"></a>
-    <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">AWS Educate Introduction to Cloud 101</p>
+    <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">AWS Educate Introduction to Cloud 101</p>
   </div>
-  
 </div>
+
 
 
 
