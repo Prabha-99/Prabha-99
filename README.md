@@ -22,8 +22,8 @@
 
 
 <p align="left"> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://api.badgr.io/public/assertions/UD4a8xQySj2Y7j3r53ereg?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="spring" width="40" height="40"/> </a> 
+<a href="https://api.badgr.io/public/assertions/hQmqLmeASQecIGZ1N6mrOw?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="angular" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
