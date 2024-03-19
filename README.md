@@ -3,14 +3,14 @@
 
   I am a Java Spring Backend Developer from Sri Lanka who currently working with Spring Boot framework.Other than programming I am passionate in Music and Astronomy and i think those two things makes me traqualized person during this software development journey. 
 
- <p align="left"> 
+
 <div style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif; display: flex; flex-direction: row;">
   <div style="margin-right: 20px;">
-    <a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com" rel="noreferrer"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image"></a>
+    <a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image"></a>
     <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals<br> Student Expert</p>
   </div>
   <div>
-    <a href="https://api.badgr.io/public/assertions/hQmqLmeASQecIGZ1N6mrOw?identity__email=prabhashana77%40gmail.com" rel="noreferrer" ><img width="120px" height="120px" src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"></a>
+    <a href="https://api.badgr.io/public/assertions/hQmqLmeASQecIGZ1N6mrOw?identity__email=prabhashana77%40gmail.com"><img width="120px" height="120px" src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"></a>
     <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">AWS Cloud Quest:<br>Cloud Practitioner</p>
   </div>
 </div>
@@ -19,6 +19,12 @@
     <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">AWS Educate Introduction<br> to Cloud 101</p>
   </div>
 </div>
+
+
+<p align="left"> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 
@@ -58,9 +64,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-
-
- 
-
- 
 </p>
