@@ -6,11 +6,11 @@
  <p align="left"> 
 <div style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif; display: flex; flex-direction: row;">
   <div style="margin-right: 20px;">
-    <a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image"></a>
+    <a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com" rel="noreferrer"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image"></a>
     <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals<br> Student Expert</p>
   </div>
   <div>
-    <a href="https://api.badgr.io/public/assertions/hQmqLmeASQecIGZ1N6mrOw?identity__email=prabhashana77%40gmail.com"><img width="120px" height="120px" src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"></a>
+    <a href="https://api.badgr.io/public/assertions/hQmqLmeASQecIGZ1N6mrOw?identity__email=prabhashana77%40gmail.com" rel="noreferrer" ><img width="120px" height="120px" src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"></a>
     <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">AWS Cloud Quest:<br>Cloud Practitioner</p>
   </div>
 </div>
