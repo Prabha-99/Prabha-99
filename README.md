@@ -22,7 +22,7 @@
 
 
 <p align="left"> 
-<a href="https://api.badgr.io/public/assertions/UD4a8xQySj2Y7j3r53ereg?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="spring" width="120" height="120"/> <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals<br> Student Expert</p> </a> 
+<a href="https://api.badgr.io/public/assertions/UD4a8xQySj2Y7j3r53ereg?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"> <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals<br> Student Expert</p>  <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="spring" width="120" height="120"/></a> 
 <a href="https://api.badgr.io/public/assertions/hQmqLmeASQecIGZ1N6mrOw?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="angular" width="120" height="120"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="120" height="120"/> </a> 
 </p>
