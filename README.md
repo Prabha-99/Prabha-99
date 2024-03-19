@@ -3,7 +3,7 @@
 
   I am a Java Spring Backend Developer from Sri Lanka who currently working with Spring Boot framework.Other than programming I am passionate in Music and Astronomy and i think those two things makes me traqualized person during this software development journey. 
 
- 
+ <p align="left"> 
 <div style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif; display: flex; flex-direction: row;">
   <div style="margin-right: 20px;">
     <a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image"></a>
@@ -19,7 +19,7 @@
     <p style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">AWS Educate Introduction<br> to Cloud 101</p>
   </div>
 </div>
-
+</p>
 
 
 ![Prabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabha-99&show_icons=true&theme=transparent)
