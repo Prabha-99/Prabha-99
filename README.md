@@ -5,9 +5,9 @@
 
 
 <p align="left"> 
-<a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"> <img src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image" alt="spring" width="115" height="115"/> </a> 
-<a href="https://api.badgr.io/public/assertions/hQmqLmeASQecIGZ1N6mrOw?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="angular" width="120" height="120"/> </a> 
-<a href="https://api.badgr.io/public/assertions/UD4a8xQySj2Y7j3r53ereg?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="git" width="120" height="120"/> </a> 
+<a href="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"><img src="https://api.badgr.io/public/assertions/nnJEw55FQHqEJ0ZVFvo8XA/image" alt="spring" width="115" height="115"/></a> 
+<a href="https://api.badgr.io/public/assertions/hQmqLmeASQecIGZ1N6mrOw?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"><img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="angular" width="120" height="120"/></a> 
+<a href="https://api.badgr.io/public/assertions/UD4a8xQySj2Y7j3r53ereg?identity__email=prabhashana77%40gmail.com" target="_blank" rel="noreferrer"><img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="git" width="120" height="120"/></a> 
 </p>
 
 
