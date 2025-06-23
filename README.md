@@ -1,7 +1,7 @@
 ![Banner!](Github_Banner(gitcolor).png)
-<h3 align="center">BICT(Hons) Undergraduate at University of Ruhuna, Sri Lanka</h3>
+<h3 align="center">Associate Software Engineer</h3>
 
-  I am a Java Spring Backend Developer from Sri Lanka who currently working with Spring Boot framework.Other than programming I am passionate in Music and Astronomy and i think those two things makes me traqualized person during this software development journey.
+  I am a Associate Software Engineer from Sri Lanka who currently working with front-end technologies like Angular and React.Other than programming I am passionate in Music and Astronomy and i think those two things makes me traqualized person during this software development journey.
 
 
 <p align="left"> 
