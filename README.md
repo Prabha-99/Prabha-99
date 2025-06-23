@@ -1,4 +1,4 @@
-![Banner!](Github_Banner(gitcolor).png)
+![Banner!](Maroon_Banner.png)
 <h3 align="center">Associate Software Engineer</h3>
 
   I am a Associate Software Engineer from Sri Lanka who currently working with front-end technologies like Angular and React.Other than programming I am passionate in Music and Astronomy and i think those two things makes me traqualized person during this software development journey.
